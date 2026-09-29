@@ -1,6 +1,6 @@
 ### Salut, moi c'est David 👋
 
-Étudiant en **M2 Économétrie**, je travaille sur des projets qui allient rigueur statistique et analyse de données appliquée. Je transforme des données brutes en outputs exploitables, que ce soit via une analyse exploratoire ou un visualiation.
+Étudiant en **M2 Économétrie**, je travaille sur des projets qui allient rigueur statistique et analyse de données appliquée. Je transforme des données brutes en outputs exploitables, que ce soit via une analyse exploratoire ou une visualiation.
 
 **🔧 Stack principale**
 - **Python** : pandas, Plotly, Dash
