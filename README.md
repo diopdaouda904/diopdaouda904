@@ -3,9 +3,9 @@
 Étudiant en **M2 Économétrie**, je travaille sur des projets qui allient rigueur statistique et analyse de données appliquée. Je transforme des données brutes en outputs exploitables, que ce soit via une analyse exploratoire ou une visualiation.
 
 **🔧 Stack principale**
-- **Python** : pandas, Plotly, Dash
+- **Python** : pandas, numpy, scikit learn, Plotly, Dash
 - **R** 
-- **Analyse statistique** : regression linéaire, logit/probit, séries temporelles
+- **Analyse statistique** : Econométrie
 - **Data viz** : power bi, R-shiny
 
 **📊 Quelques projets**
