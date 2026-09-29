@@ -1,16 +1,18 @@
-## Hi there 👋
+### Salut, moi c'est David 👋
 
-<!--
-**diopdaouda904/diopdaouda904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **M2 Économétrie**, je travaille sur des projets qui allient rigueur statistique et analyse de données appliquée. Je transforme des données brutes en outputs exploitables, que ce soit via une analyse exploratoire ou un visualiation.
 
-Here are some ideas to get you started:
+**🔧 Stack principale**
+- **Python** : pandas, Plotly, Dash
+- **R** 
+- **Analyse statistique** : regression linéaire, logit/probit, séries temporelles
+- **Data viz** : power bi, R-shiny
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📊 Quelques projets**
+- [**sales-EDA**](https://github.com/diopdaouda904/sales-EDA) — Analyse exploratoire de données de vente (5000+ transactions) : segmentation clients, saisonnalité, rentabilité par catégorie
+- [**ECAP-dashboard**](https://github.com/diopdaouda904/ECAP-dashboard) — Dashboard interactif Dash/Plotly pour le suivi de KPIs commerciaux en temps réel
+
+**🎯 En ce moment**
+Je consolide mes compétences en économétrie appliquée (modèles de choix discret, cointégration, séries temporelles) et je continue à développer des outils data en Python.
+
+📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/david-diop-229379251/) · [diopdaouda904@gmail.com](mailto:diopdaouda904@gmail.com)
