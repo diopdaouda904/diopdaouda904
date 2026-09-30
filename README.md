@@ -4,7 +4,7 @@
 
 **Stack principale**
 - **Python** : pandas, numpy, scikit learn, Plotly, Dash
-- **R** 
+- **R** : tidyverse, tseries
 - **Analyse statistique** : Econométrie
 - **Data viz** : power bi, R-shiny
 
